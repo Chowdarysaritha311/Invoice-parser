@@ -6,7 +6,7 @@
 
 ## 📸 Overview
 
-Invoice Tracker v2 is a full-stack application that uses a **local AI model (LM Studio + Qwen2.5-VL-7B)** to automatically extract data from PDF invoices — both digital and scanned — and store them in a structured Excel tracker. It applies Indian TDS rules automatically, supports batch uploads, and provides a clean Next.js dashboard for managing invoices.
+Invoice Tracker  is a full-stack application that uses a **local AI model (LM Studio + Qwen2.5-VL-7B)** to automatically extract data from PDF invoices — both digital and scanned — and store them in a structured Excel tracker. It applies Indian TDS rules automatically, supports batch uploads, and provides a clean Next.js dashboard for managing invoices.
 
 ---
 
@@ -31,7 +31,7 @@ Invoice Tracker v2 is a full-stack application that uses a **local AI model (LM 
 ## 🏗️ Architecture
 
 ```
-invoice_tracker_v2/
+invoice_tracker/
 ├── api.py                  # FastAPI backend (port 8000) — main invoice API
 ├── tds_api_server.py       # Flask TDS rules API (port 5000)
 ├── invoice_tracker.py      # CLI version of invoice tracker
