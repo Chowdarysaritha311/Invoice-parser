@@ -1,12 +1,33 @@
-# 🧾 Invoice Tracker 
-
+# 🧾 Invoice Tracker
 > AI-powered invoice parsing and tracking system for Indian businesses — with automatic TDS classification, Excel export, and a modern web dashboard.
 
 ---
 
-## 📸 Overview
+## 📸 Screenshots
 
-Invoice Tracker  is a full-stack application that uses a **local AI model (LM Studio + Qwen2.5-VL-7B)** to automatically extract data from PDF invoices — both digital and scanned — and store them in a structured Excel tracker. It applies Indian TDS rules automatically, supports batch uploads, and provides a clean Next.js dashboard for managing invoices.
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Add Invoice
+![Add Invoice](screenshots/add_invoice.png)
+
+### Batch Upload
+![Batch Upload](screenshots/batch_upload.png)
+
+### Search
+![Search](screenshots/search.png)
+
+### Monthly Summary
+![Summary](screenshots/summary.png)
+
+### Excel Output
+![Excel Output](screenshots/excel_output.png)
+
+---
+
+## 🌟 Overview
+
+Invoice Tracker is a full-stack application that uses a **local AI model (LM Studio + Qwen2.5-VL-7B)** to automatically extract data from PDF invoices — both digital and scanned — and store them in a structured Excel tracker. It applies Indian TDS rules automatically, supports batch uploads, and provides a clean Next.js dashboard for managing invoices.
 
 ---
 
