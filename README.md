@@ -1,4 +1,4 @@
-# 🧾 Invoice Tracker v2
+# 🧾 Invoice Tracker 
 
 > AI-powered invoice parsing and tracking system for Indian businesses — with automatic TDS classification, Excel export, and a modern web dashboard.
 
